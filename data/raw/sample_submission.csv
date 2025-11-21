@@ -1,0 +1,2293 @@
+ID,TRIAL_TYPE
+1,NOGO W- nolick
+2,GO W+ nolick
+3,NOGO W- nolick
+4,NOGO W- lick
+5,NOGO W+ nolick
+6,NOGO W- nolick
+7,NOGO W+ nolick
+8,NOGO W+ lick
+9,NOGO W- lick
+10,no tone W+ nolick
+11,GO W- lick
+12,GO W+ lick
+13,no tone W+ nolick
+14,GO W- lick
+15,GO W- nolick
+16,NOGO W- nolick
+17,GO W- lick
+18,NOGO W- lick
+19,NOGO W+ nolick
+20,no tone W+ nolick
+21,no tone W+ lick
+22,NOGO W+ nolick
+23,NOGO W+ nolick
+24,NOGO W+ lick
+25,NOGO W+ lick
+26,no tone W+ nolick
+27,NOGO W+ nolick
+28,NOGO W+ nolick
+29,no tone W+ nolick
+30,GO W- nolick
+31,no tone W+ lick
+32,NOGO W- nolick
+33,no tone W+ nolick
+34,no tone W+ lick
+35,GO W- nolick
+36,GO W+ nolick
+37,GO W+ nolick
+38,no tone W+ nolick
+39,GO W+ lick
+40,NOGO W- nolick
+41,GO W+ nolick
+42,NOGO W- lick
+43,NOGO W- nolick
+44,no tone W+ nolick
+45,NOGO W- lick
+46,NOGO W- lick
+47,NOGO W+ lick
+48,GO W- lick
+49,no tone W+ nolick
+50,GO W- lick
+51,NOGO W- nolick
+52,NOGO W- nolick
+53,GO W+ lick
+54,GO W- nolick
+55,NOGO W+ lick
+56,no tone W+ nolick
+57,no tone W+ lick
+58,NOGO W- nolick
+59,GO W- lick
+60,GO W+ nolick
+61,NOGO W+ nolick
+62,no tone W+ nolick
+63,NOGO W+ nolick
+64,NOGO W- nolick
+65,no tone W+ nolick
+66,NOGO W+ lick
+67,no tone W+ nolick
+68,GO W- lick
+69,GO W- nolick
+70,NOGO W+ nolick
+71,NOGO W+ lick
+72,NOGO W- nolick
+73,GO W- nolick
+74,GO W+ lick
+75,GO W+ lick
+76,GO W- nolick
+77,no tone W+ nolick
+78,no tone W+ lick
+79,NOGO W- nolick
+80,NOGO W- nolick
+81,no tone W+ nolick
+82,no tone W+ nolick
+83,NOGO W+ lick
+84,no tone W+ lick
+85,NOGO W- lick
+86,NOGO W- lick
+87,no tone W+ nolick
+88,NOGO W- nolick
+89,NOGO W- lick
+90,GO W+ nolick
+91,NOGO W+ lick
+92,GO W+ nolick
+93,GO W+ nolick
+94,GO W+ nolick
+95,NOGO W+ nolick
+96,no tone W+ nolick
+97,GO W+ lick
+98,GO W- lick
+99,NOGO W- nolick
+100,no tone W+ nolick
+101,GO W- nolick
+102,GO W+ nolick
+103,no tone W+ nolick
+104,NOGO W+ lick
+105,NOGO W+ nolick
+106,GO W- nolick
+107,GO W- nolick
+108,NOGO W+ nolick
+109,NOGO W- nolick
+110,no tone W+ nolick
+111,NOGO W- nolick
+112,GO W+ nolick
+113,NOGO W- nolick
+114,NOGO W+ lick
+115,NOGO W+ nolick
+116,GO W+ lick
+117,GO W- nolick
+118,no tone W+ nolick
+119,NOGO W- nolick
+120,GO W+ lick
+121,NOGO W+ lick
+122,NOGO W- lick
+123,NOGO W- lick
+124,no tone W+ nolick
+125,GO W+ lick
+126,GO W- nolick
+127,GO W- nolick
+128,NOGO W- nolick
+129,GO W- lick
+130,GO W+ nolick
+131,no tone W+ lick
+132,NOGO W+ lick
+133,NOGO W+ lick
+134,NOGO W- nolick
+135,GO W+ lick
+136,GO W- lick
+137,NOGO W- nolick
+138,GO W+ nolick
+139,NOGO W+ lick
+140,NOGO W+ lick
+141,GO W+ nolick
+142,GO W+ nolick
+143,NOGO W+ lick
+144,NOGO W+ nolick
+145,NOGO W+ nolick
+146,GO W+ lick
+147,GO W+ nolick
+148,NOGO W- lick
+149,no tone W+ lick
+150,no tone W+ lick
+151,NOGO W+ lick
+152,NOGO W- nolick
+153,GO W+ lick
+154,no tone W+ nolick
+155,GO W+ lick
+156,GO W- nolick
+157,no tone W+ nolick
+158,NOGO W- nolick
+159,NOGO W+ lick
+160,GO W- lick
+161,no tone W+ lick
+162,NOGO W+ nolick
+163,no tone W+ lick
+164,no tone W+ lick
+165,no tone W+ nolick
+166,GO W- lick
+167,GO W+ lick
+168,no tone W+ nolick
+169,NOGO W- nolick
+170,NOGO W+ nolick
+171,GO W- nolick
+172,GO W- lick
+173,GO W+ nolick
+174,GO W+ lick
+175,no tone W+ lick
+176,GO W+ lick
+177,no tone W+ lick
+178,NOGO W+ nolick
+179,no tone W+ lick
+180,no tone W+ nolick
+181,GO W+ nolick
+182,no tone W+ nolick
+183,NOGO W+ nolick
+184,NOGO W- lick
+185,NOGO W+ nolick
+186,no tone W+ lick
+187,GO W+ lick
+188,GO W+ lick
+189,NOGO W+ lick
+190,NOGO W+ lick
+191,GO W+ lick
+192,NOGO W+ lick
+193,NOGO W- lick
+194,GO W+ nolick
+195,GO W+ lick
+196,NOGO W+ nolick
+197,NOGO W- nolick
+198,no tone W+ nolick
+199,NOGO W+ lick
+200,no tone W+ nolick
+201,NOGO W+ nolick
+202,NOGO W- nolick
+203,GO W+ nolick
+204,NOGO W- lick
+205,no tone W+ nolick
+206,NOGO W+ nolick
+207,NOGO W+ nolick
+208,GO W- nolick
+209,GO W+ nolick
+210,no tone W+ nolick
+211,NOGO W- lick
+212,GO W- nolick
+213,no tone W+ lick
+214,NOGO W+ nolick
+215,GO W- lick
+216,NOGO W- nolick
+217,GO W- nolick
+218,NOGO W- nolick
+219,GO W- nolick
+220,NOGO W+ nolick
+221,NOGO W+ lick
+222,no tone W+ lick
+223,NOGO W- nolick
+224,GO W+ lick
+225,no tone W+ nolick
+226,GO W+ nolick
+227,no tone W+ nolick
+228,GO W- nolick
+229,NOGO W- nolick
+230,NOGO W+ lick
+231,NOGO W- lick
+232,NOGO W- lick
+233,GO W+ lick
+234,NOGO W+ nolick
+235,no tone W+ nolick
+236,GO W- lick
+237,no tone W+ nolick
+238,no tone W+ nolick
+239,NOGO W+ lick
+240,no tone W+ lick
+241,GO W+ lick
+242,no tone W+ lick
+243,GO W+ nolick
+244,GO W+ nolick
+245,GO W+ nolick
+246,NOGO W- nolick
+247,no tone W+ lick
+248,no tone W+ nolick
+249,NOGO W- nolick
+250,GO W+ nolick
+251,NOGO W+ lick
+252,GO W+ nolick
+253,NOGO W+ nolick
+254,NOGO W- nolick
+255,NOGO W+ nolick
+256,GO W+ nolick
+257,NOGO W+ nolick
+258,no tone W+ nolick
+259,GO W- nolick
+260,NOGO W+ lick
+261,NOGO W+ nolick
+262,GO W+ lick
+263,NOGO W+ nolick
+264,NOGO W- lick
+265,GO W- lick
+266,NOGO W+ nolick
+267,GO W- nolick
+268,NOGO W- nolick
+269,NOGO W- nolick
+270,no tone W+ nolick
+271,no tone W+ nolick
+272,NOGO W+ lick
+273,GO W- lick
+274,NOGO W- nolick
+275,no tone W+ lick
+276,NOGO W- lick
+277,NOGO W+ nolick
+278,NOGO W+ nolick
+279,NOGO W- lick
+280,GO W- lick
+281,GO W- lick
+282,NOGO W- lick
+283,GO W- nolick
+284,no tone W+ nolick
+285,GO W+ nolick
+286,NOGO W+ nolick
+287,NOGO W- nolick
+288,NOGO W- nolick
+289,NOGO W- lick
+290,GO W- nolick
+291,no tone W+ nolick
+292,NOGO W- nolick
+293,NOGO W+ nolick
+294,GO W- nolick
+295,NOGO W+ nolick
+296,NOGO W+ nolick
+297,GO W- lick
+298,GO W- lick
+299,GO W- nolick
+300,NOGO W+ lick
+301,NOGO W+ lick
+302,NOGO W- lick
+303,GO W+ nolick
+304,NOGO W- nolick
+305,NOGO W+ nolick
+306,NOGO W- nolick
+307,NOGO W- lick
+308,NOGO W+ lick
+309,GO W+ nolick
+310,GO W+ lick
+311,no tone W+ lick
+312,no tone W+ lick
+313,no tone W+ lick
+314,GO W- lick
+315,no tone W+ nolick
+316,NOGO W+ nolick
+317,no tone W+ lick
+318,GO W+ lick
+319,no tone W+ lick
+320,GO W+ nolick
+321,NOGO W- nolick
+322,GO W+ lick
+323,GO W- lick
+324,NOGO W- lick
+325,GO W- nolick
+326,NOGO W+ lick
+327,NOGO W+ nolick
+328,no tone W+ lick
+329,GO W+ nolick
+330,NOGO W- lick
+331,NOGO W+ nolick
+332,GO W- lick
+333,NOGO W- nolick
+334,NOGO W- lick
+335,GO W- lick
+336,GO W+ nolick
+337,no tone W+ lick
+338,NOGO W- lick
+339,no tone W+ lick
+340,GO W+ lick
+341,GO W- lick
+342,GO W+ lick
+343,no tone W+ nolick
+344,GO W+ nolick
+345,GO W- lick
+346,NOGO W- nolick
+347,NOGO W- lick
+348,NOGO W+ lick
+349,GO W+ nolick
+350,no tone W+ lick
+351,no tone W+ lick
+352,GO W- nolick
+353,NOGO W+ nolick
+354,NOGO W- nolick
+355,NOGO W- lick
+356,GO W- lick
+357,GO W+ lick
+358,NOGO W- nolick
+359,GO W- nolick
+360,NOGO W+ nolick
+361,NOGO W+ nolick
+362,no tone W+ lick
+363,GO W+ lick
+364,GO W+ lick
+365,NOGO W+ lick
+366,GO W- nolick
+367,NOGO W- nolick
+368,GO W- nolick
+369,GO W+ lick
+370,GO W+ nolick
+371,GO W+ lick
+372,GO W+ nolick
+373,no tone W+ nolick
+374,no tone W+ lick
+375,GO W- lick
+376,NOGO W+ nolick
+377,GO W+ lick
+378,NOGO W+ lick
+379,NOGO W+ lick
+380,NOGO W+ nolick
+381,GO W- nolick
+382,NOGO W+ lick
+383,GO W- lick
+384,NOGO W+ nolick
+385,NOGO W- lick
+386,NOGO W- lick
+387,GO W+ nolick
+388,no tone W+ nolick
+389,NOGO W- nolick
+390,NOGO W+ nolick
+391,GO W+ lick
+392,no tone W+ nolick
+393,GO W- lick
+394,NOGO W+ lick
+395,GO W+ nolick
+396,GO W+ lick
+397,GO W+ nolick
+398,NOGO W- lick
+399,GO W- lick
+400,GO W- nolick
+401,NOGO W+ nolick
+402,NOGO W+ lick
+403,NOGO W- lick
+404,GO W- lick
+405,no tone W+ lick
+406,no tone W+ lick
+407,NOGO W- nolick
+408,GO W- lick
+409,no tone W+ nolick
+410,NOGO W+ nolick
+411,NOGO W+ lick
+412,NOGO W+ nolick
+413,GO W- lick
+414,no tone W+ nolick
+415,no tone W+ lick
+416,no tone W+ lick
+417,GO W+ nolick
+418,GO W+ lick
+419,no tone W+ lick
+420,NOGO W+ lick
+421,NOGO W+ nolick
+422,GO W+ lick
+423,NOGO W+ nolick
+424,GO W- lick
+425,NOGO W- nolick
+426,NOGO W- nolick
+427,no tone W+ nolick
+428,NOGO W+ nolick
+429,NOGO W- lick
+430,NOGO W+ lick
+431,NOGO W+ nolick
+432,GO W- lick
+433,NOGO W+ lick
+434,NOGO W+ nolick
+435,GO W+ nolick
+436,NOGO W- lick
+437,GO W- lick
+438,GO W- lick
+439,NOGO W- lick
+440,NOGO W+ nolick
+441,NOGO W- lick
+442,NOGO W- nolick
+443,NOGO W+ lick
+444,no tone W+ nolick
+445,GO W- lick
+446,NOGO W+ nolick
+447,NOGO W+ lick
+448,GO W- lick
+449,NOGO W+ lick
+450,GO W- lick
+451,NOGO W- lick
+452,NOGO W- nolick
+453,GO W+ lick
+454,NOGO W- nolick
+455,NOGO W- nolick
+456,NOGO W+ lick
+457,GO W+ nolick
+458,GO W- nolick
+459,NOGO W- lick
+460,NOGO W- lick
+461,NOGO W- nolick
+462,no tone W+ nolick
+463,NOGO W+ lick
+464,NOGO W- nolick
+465,NOGO W- nolick
+466,no tone W+ lick
+467,GO W+ lick
+468,GO W- nolick
+469,NOGO W+ nolick
+470,no tone W+ lick
+471,NOGO W+ nolick
+472,GO W+ nolick
+473,NOGO W- lick
+474,no tone W+ nolick
+475,GO W- nolick
+476,NOGO W- lick
+477,NOGO W- nolick
+478,GO W- nolick
+479,GO W+ lick
+480,GO W+ lick
+481,GO W+ nolick
+482,no tone W+ lick
+483,no tone W+ nolick
+484,no tone W+ nolick
+485,no tone W+ nolick
+486,GO W+ lick
+487,NOGO W+ lick
+488,no tone W+ lick
+489,NOGO W- nolick
+490,NOGO W+ lick
+491,GO W- nolick
+492,no tone W+ lick
+493,GO W+ lick
+494,GO W+ lick
+495,GO W- nolick
+496,no tone W+ lick
+497,NOGO W- lick
+498,GO W- lick
+499,NOGO W+ nolick
+500,GO W- lick
+501,GO W+ lick
+502,no tone W+ nolick
+503,NOGO W- nolick
+504,GO W+ lick
+505,NOGO W- nolick
+506,NOGO W+ nolick
+507,GO W- nolick
+508,GO W+ lick
+509,GO W+ lick
+510,GO W- nolick
+511,NOGO W+ nolick
+512,no tone W+ lick
+513,GO W- nolick
+514,NOGO W- nolick
+515,GO W+ nolick
+516,GO W+ lick
+517,no tone W+ nolick
+518,NOGO W- nolick
+519,GO W- lick
+520,GO W- lick
+521,NOGO W- nolick
+522,no tone W+ lick
+523,GO W- lick
+524,NOGO W+ nolick
+525,GO W+ nolick
+526,GO W- nolick
+527,NOGO W- nolick
+528,GO W+ nolick
+529,NOGO W- lick
+530,NOGO W+ nolick
+531,GO W+ nolick
+532,no tone W+ lick
+533,GO W+ nolick
+534,NOGO W+ lick
+535,GO W- lick
+536,GO W+ nolick
+537,GO W- lick
+538,GO W- nolick
+539,NOGO W- nolick
+540,GO W+ nolick
+541,GO W+ nolick
+542,GO W+ nolick
+543,GO W+ nolick
+544,NOGO W+ lick
+545,no tone W+ lick
+546,no tone W+ nolick
+547,NOGO W- lick
+548,NOGO W- lick
+549,GO W- lick
+550,NOGO W- lick
+551,GO W- nolick
+552,NOGO W+ lick
+553,NOGO W- nolick
+554,no tone W+ nolick
+555,NOGO W+ nolick
+556,no tone W+ lick
+557,GO W- nolick
+558,NOGO W+ lick
+559,NOGO W+ lick
+560,GO W- lick
+561,GO W- lick
+562,NOGO W- lick
+563,NOGO W- nolick
+564,NOGO W+ nolick
+565,GO W- lick
+566,no tone W+ lick
+567,GO W- lick
+568,no tone W+ nolick
+569,GO W+ lick
+570,no tone W+ lick
+571,GO W- lick
+572,NOGO W+ lick
+573,NOGO W- nolick
+574,NOGO W- nolick
+575,no tone W+ lick
+576,no tone W+ lick
+577,GO W- nolick
+578,GO W+ nolick
+579,NOGO W+ lick
+580,NOGO W- lick
+581,no tone W+ nolick
+582,no tone W+ lick
+583,NOGO W- lick
+584,NOGO W- lick
+585,GO W+ lick
+586,NOGO W+ nolick
+587,NOGO W- lick
+588,NOGO W- lick
+589,GO W- nolick
+590,NOGO W+ nolick
+591,NOGO W+ lick
+592,GO W+ lick
+593,GO W+ nolick
+594,GO W+ lick
+595,no tone W+ nolick
+596,GO W- lick
+597,NOGO W- nolick
+598,GO W- lick
+599,NOGO W- lick
+600,GO W+ nolick
+601,GO W- nolick
+602,no tone W+ lick
+603,NOGO W- lick
+604,NOGO W- lick
+605,GO W- nolick
+606,no tone W+ nolick
+607,no tone W+ nolick
+608,GO W+ lick
+609,NOGO W+ nolick
+610,GO W- lick
+611,NOGO W+ nolick
+612,no tone W+ nolick
+613,NOGO W+ nolick
+614,GO W- nolick
+615,no tone W+ lick
+616,no tone W+ nolick
+617,GO W+ lick
+618,NOGO W- lick
+619,GO W- nolick
+620,NOGO W+ nolick
+621,no tone W+ nolick
+622,NOGO W+ lick
+623,NOGO W+ nolick
+624,GO W+ nolick
+625,NOGO W- nolick
+626,GO W+ lick
+627,GO W+ lick
+628,GO W+ lick
+629,NOGO W- lick
+630,GO W- nolick
+631,GO W+ lick
+632,GO W- lick
+633,NOGO W- lick
+634,GO W+ lick
+635,NOGO W+ lick
+636,no tone W+ nolick
+637,no tone W+ lick
+638,NOGO W- lick
+639,NOGO W- nolick
+640,GO W- lick
+641,no tone W+ nolick
+642,no tone W+ nolick
+643,no tone W+ nolick
+644,GO W+ lick
+645,NOGO W- lick
+646,GO W- nolick
+647,GO W+ lick
+648,no tone W+ nolick
+649,GO W- nolick
+650,NOGO W+ lick
+651,GO W+ nolick
+652,no tone W+ nolick
+653,GO W- lick
+654,no tone W+ lick
+655,GO W- nolick
+656,no tone W+ lick
+657,GO W- lick
+658,NOGO W- lick
+659,GO W+ nolick
+660,GO W+ nolick
+661,GO W+ lick
+662,GO W+ nolick
+663,GO W+ lick
+664,GO W+ nolick
+665,NOGO W+ lick
+666,GO W- nolick
+667,NOGO W- nolick
+668,GO W- nolick
+669,NOGO W+ lick
+670,NOGO W+ nolick
+671,GO W- nolick
+672,NOGO W+ nolick
+673,NOGO W- lick
+674,NOGO W- nolick
+675,no tone W+ lick
+676,NOGO W+ lick
+677,GO W+ lick
+678,no tone W+ nolick
+679,GO W- nolick
+680,no tone W+ nolick
+681,GO W- nolick
+682,GO W+ nolick
+683,GO W+ nolick
+684,NOGO W+ nolick
+685,no tone W+ lick
+686,no tone W+ nolick
+687,no tone W+ nolick
+688,NOGO W+ lick
+689,GO W+ lick
+690,NOGO W- lick
+691,NOGO W+ lick
+692,NOGO W+ nolick
+693,NOGO W- lick
+694,GO W+ nolick
+695,NOGO W- lick
+696,NOGO W- nolick
+697,GO W+ lick
+698,GO W+ nolick
+699,NOGO W+ nolick
+700,no tone W+ nolick
+701,no tone W+ lick
+702,NOGO W+ nolick
+703,NOGO W- lick
+704,NOGO W- nolick
+705,GO W- lick
+706,GO W- nolick
+707,GO W+ nolick
+708,NOGO W- nolick
+709,GO W- lick
+710,NOGO W- lick
+711,no tone W+ nolick
+712,NOGO W+ lick
+713,NOGO W- nolick
+714,NOGO W- nolick
+715,GO W+ lick
+716,NOGO W- lick
+717,GO W+ lick
+718,NOGO W- nolick
+719,NOGO W- nolick
+720,NOGO W+ lick
+721,NOGO W+ nolick
+722,NOGO W- nolick
+723,NOGO W- lick
+724,no tone W+ lick
+725,NOGO W+ lick
+726,GO W+ nolick
+727,no tone W+ lick
+728,NOGO W+ lick
+729,no tone W+ nolick
+730,NOGO W+ nolick
+731,NOGO W- lick
+732,GO W+ nolick
+733,GO W+ lick
+734,NOGO W- nolick
+735,no tone W+ nolick
+736,NOGO W+ nolick
+737,NOGO W+ lick
+738,NOGO W- lick
+739,NOGO W+ lick
+740,NOGO W- lick
+741,NOGO W- lick
+742,no tone W+ lick
+743,no tone W+ lick
+744,GO W+ lick
+745,no tone W+ lick
+746,NOGO W+ nolick
+747,GO W+ nolick
+748,NOGO W+ nolick
+749,GO W+ nolick
+750,NOGO W+ lick
+751,NOGO W- lick
+752,no tone W+ nolick
+753,NOGO W+ lick
+754,GO W+ lick
+755,NOGO W- lick
+756,no tone W+ nolick
+757,no tone W+ nolick
+758,GO W- lick
+759,NOGO W+ lick
+760,NOGO W- nolick
+761,NOGO W- nolick
+762,GO W- lick
+763,NOGO W+ nolick
+764,GO W- nolick
+765,NOGO W+ lick
+766,GO W- nolick
+767,NOGO W+ nolick
+768,no tone W+ lick
+769,NOGO W- nolick
+770,NOGO W- nolick
+771,GO W- nolick
+772,NOGO W+ nolick
+773,NOGO W+ nolick
+774,NOGO W- lick
+775,NOGO W- lick
+776,GO W- lick
+777,GO W- nolick
+778,GO W+ lick
+779,GO W+ nolick
+780,no tone W+ nolick
+781,NOGO W+ nolick
+782,GO W- lick
+783,GO W+ lick
+784,GO W- nolick
+785,NOGO W+ lick
+786,NOGO W- nolick
+787,NOGO W+ nolick
+788,GO W+ lick
+789,GO W- lick
+790,GO W- nolick
+791,no tone W+ nolick
+792,GO W+ nolick
+793,NOGO W+ lick
+794,GO W- nolick
+795,NOGO W- lick
+796,NOGO W+ nolick
+797,NOGO W- nolick
+798,NOGO W- nolick
+799,NOGO W+ lick
+800,NOGO W- nolick
+801,GO W+ lick
+802,NOGO W+ nolick
+803,GO W+ lick
+804,NOGO W+ lick
+805,no tone W+ lick
+806,NOGO W+ lick
+807,NOGO W+ lick
+808,NOGO W+ lick
+809,GO W+ lick
+810,NOGO W+ nolick
+811,no tone W+ nolick
+812,GO W- nolick
+813,NOGO W+ lick
+814,GO W+ nolick
+815,no tone W+ lick
+816,NOGO W+ lick
+817,NOGO W- nolick
+818,NOGO W+ lick
+819,GO W- lick
+820,GO W+ lick
+821,NOGO W- lick
+822,NOGO W- nolick
+823,GO W- lick
+824,GO W- nolick
+825,no tone W+ lick
+826,GO W- nolick
+827,GO W- lick
+828,no tone W+ nolick
+829,no tone W+ nolick
+830,NOGO W+ lick
+831,GO W+ nolick
+832,NOGO W+ nolick
+833,NOGO W+ lick
+834,no tone W+ nolick
+835,no tone W+ lick
+836,GO W+ nolick
+837,NOGO W- nolick
+838,GO W- nolick
+839,NOGO W+ nolick
+840,NOGO W- nolick
+841,GO W+ nolick
+842,no tone W+ nolick
+843,GO W+ nolick
+844,GO W+ nolick
+845,NOGO W+ lick
+846,GO W+ lick
+847,no tone W+ lick
+848,GO W+ lick
+849,NOGO W+ nolick
+850,NOGO W- lick
+851,GO W+ nolick
+852,NOGO W+ lick
+853,NOGO W- nolick
+854,no tone W+ lick
+855,NOGO W- nolick
+856,GO W- nolick
+857,GO W+ nolick
+858,GO W- nolick
+859,GO W- lick
+860,GO W+ lick
+861,GO W- nolick
+862,NOGO W- nolick
+863,GO W- lick
+864,GO W- nolick
+865,GO W+ nolick
+866,NOGO W+ nolick
+867,GO W+ lick
+868,NOGO W- nolick
+869,no tone W+ lick
+870,GO W+ lick
+871,no tone W+ lick
+872,NOGO W+ nolick
+873,NOGO W- lick
+874,NOGO W- lick
+875,GO W- nolick
+876,NOGO W+ lick
+877,GO W+ lick
+878,NOGO W- nolick
+879,GO W- nolick
+880,NOGO W- lick
+881,GO W- lick
+882,NOGO W- lick
+883,no tone W+ nolick
+884,GO W+ lick
+885,GO W- lick
+886,GO W- nolick
+887,NOGO W+ lick
+888,NOGO W- lick
+889,GO W+ nolick
+890,NOGO W+ lick
+891,no tone W+ lick
+892,GO W- nolick
+893,GO W- nolick
+894,GO W+ nolick
+895,no tone W+ nolick
+896,no tone W+ nolick
+897,no tone W+ lick
+898,NOGO W- nolick
+899,GO W+ lick
+900,GO W- lick
+901,NOGO W+ nolick
+902,NOGO W- nolick
+903,GO W+ lick
+904,no tone W+ lick
+905,GO W+ lick
+906,NOGO W+ nolick
+907,NOGO W- lick
+908,GO W- lick
+909,NOGO W+ nolick
+910,NOGO W- lick
+911,GO W+ lick
+912,GO W- lick
+913,no tone W+ nolick
+914,GO W- nolick
+915,no tone W+ nolick
+916,NOGO W+ nolick
+917,GO W- lick
+918,no tone W+ lick
+919,GO W- nolick
+920,GO W- lick
+921,GO W- nolick
+922,NOGO W+ lick
+923,GO W+ lick
+924,GO W- nolick
+925,no tone W+ lick
+926,no tone W+ nolick
+927,no tone W+ nolick
+928,GO W+ lick
+929,no tone W+ nolick
+930,GO W- lick
+931,NOGO W+ lick
+932,GO W- nolick
+933,GO W- lick
+934,GO W- nolick
+935,GO W+ nolick
+936,NOGO W+ nolick
+937,NOGO W- nolick
+938,NOGO W+ nolick
+939,NOGO W+ lick
+940,NOGO W- nolick
+941,GO W- nolick
+942,GO W+ nolick
+943,no tone W+ lick
+944,no tone W+ lick
+945,NOGO W- nolick
+946,no tone W+ nolick
+947,no tone W+ lick
+948,no tone W+ lick
+949,GO W- nolick
+950,NOGO W- lick
+951,GO W+ nolick
+952,GO W- nolick
+953,no tone W+ lick
+954,NOGO W+ nolick
+955,NOGO W+ lick
+956,GO W- nolick
+957,NOGO W- lick
+958,no tone W+ lick
+959,no tone W+ nolick
+960,NOGO W- nolick
+961,GO W- lick
+962,NOGO W+ nolick
+963,no tone W+ nolick
+964,NOGO W- lick
+965,NOGO W- lick
+966,NOGO W+ lick
+967,NOGO W- lick
+968,NOGO W- lick
+969,NOGO W+ lick
+970,NOGO W+ nolick
+971,NOGO W+ nolick
+972,no tone W+ lick
+973,no tone W+ lick
+974,GO W+ lick
+975,GO W+ nolick
+976,NOGO W- lick
+977,GO W- lick
+978,GO W- lick
+979,GO W- lick
+980,NOGO W+ nolick
+981,no tone W+ nolick
+982,NOGO W- lick
+983,NOGO W- lick
+984,NOGO W- lick
+985,no tone W+ lick
+986,GO W- lick
+987,GO W- nolick
+988,GO W- nolick
+989,NOGO W+ nolick
+990,GO W+ lick
+991,NOGO W+ nolick
+992,GO W- lick
+993,NOGO W+ nolick
+994,NOGO W+ nolick
+995,NOGO W- lick
+996,NOGO W+ lick
+997,NOGO W- lick
+998,NOGO W- nolick
+999,NOGO W+ nolick
+1000,GO W+ nolick
+1001,no tone W+ lick
+1002,NOGO W+ nolick
+1003,GO W- lick
+1004,NOGO W- nolick
+1005,GO W+ lick
+1006,NOGO W- lick
+1007,NOGO W+ nolick
+1008,GO W- nolick
+1009,GO W- nolick
+1010,NOGO W- lick
+1011,GO W- lick
+1012,NOGO W+ nolick
+1013,no tone W+ nolick
+1014,no tone W+ nolick
+1015,no tone W+ nolick
+1016,NOGO W- nolick
+1017,no tone W+ nolick
+1018,NOGO W- nolick
+1019,NOGO W+ lick
+1020,NOGO W+ lick
+1021,NOGO W+ nolick
+1022,no tone W+ nolick
+1023,NOGO W+ nolick
+1024,no tone W+ lick
+1025,no tone W+ lick
+1026,GO W+ nolick
+1027,GO W- lick
+1028,no tone W+ lick
+1029,NOGO W+ nolick
+1030,NOGO W- nolick
+1031,GO W- nolick
+1032,no tone W+ lick
+1033,NOGO W- nolick
+1034,NOGO W+ lick
+1035,NOGO W- nolick
+1036,GO W+ nolick
+1037,NOGO W+ lick
+1038,GO W- lick
+1039,no tone W+ lick
+1040,NOGO W- lick
+1041,NOGO W+ lick
+1042,GO W- nolick
+1043,NOGO W- nolick
+1044,GO W+ lick
+1045,NOGO W- lick
+1046,no tone W+ nolick
+1047,GO W- nolick
+1048,NOGO W- lick
+1049,NOGO W- lick
+1050,GO W+ lick
+1051,no tone W+ nolick
+1052,NOGO W+ lick
+1053,GO W+ nolick
+1054,no tone W+ nolick
+1055,no tone W+ lick
+1056,GO W+ nolick
+1057,NOGO W- nolick
+1058,NOGO W- nolick
+1059,no tone W+ lick
+1060,GO W- lick
+1061,NOGO W+ lick
+1062,NOGO W+ lick
+1063,GO W+ nolick
+1064,NOGO W+ nolick
+1065,GO W- nolick
+1066,NOGO W+ lick
+1067,NOGO W+ lick
+1068,NOGO W+ nolick
+1069,NOGO W- nolick
+1070,GO W+ nolick
+1071,NOGO W+ nolick
+1072,GO W+ nolick
+1073,GO W- nolick
+1074,NOGO W+ lick
+1075,GO W- lick
+1076,NOGO W- lick
+1077,no tone W+ nolick
+1078,NOGO W- lick
+1079,NOGO W+ lick
+1080,GO W- nolick
+1081,GO W- lick
+1082,GO W- nolick
+1083,NOGO W+ lick
+1084,GO W- lick
+1085,NOGO W- nolick
+1086,GO W- nolick
+1087,GO W- nolick
+1088,no tone W+ nolick
+1089,GO W+ nolick
+1090,GO W- nolick
+1091,GO W- lick
+1092,NOGO W- nolick
+1093,no tone W+ lick
+1094,NOGO W+ nolick
+1095,no tone W+ lick
+1096,GO W+ lick
+1097,NOGO W- nolick
+1098,NOGO W- lick
+1099,GO W- lick
+1100,NOGO W- nolick
+1101,GO W- nolick
+1102,NOGO W+ nolick
+1103,NOGO W+ nolick
+1104,no tone W+ nolick
+1105,GO W- lick
+1106,no tone W+ lick
+1107,GO W+ lick
+1108,NOGO W- nolick
+1109,GO W- nolick
+1110,NOGO W- nolick
+1111,GO W- nolick
+1112,no tone W+ nolick
+1113,NOGO W- nolick
+1114,no tone W+ lick
+1115,GO W+ nolick
+1116,GO W+ lick
+1117,GO W+ nolick
+1118,NOGO W- lick
+1119,NOGO W+ nolick
+1120,no tone W+ lick
+1121,GO W+ nolick
+1122,GO W- lick
+1123,NOGO W+ nolick
+1124,no tone W+ lick
+1125,NOGO W- nolick
+1126,GO W+ lick
+1127,GO W- lick
+1128,no tone W+ nolick
+1129,no tone W+ lick
+1130,NOGO W+ nolick
+1131,GO W- lick
+1132,GO W- nolick
+1133,GO W+ nolick
+1134,NOGO W- lick
+1135,NOGO W+ nolick
+1136,NOGO W- nolick
+1137,NOGO W+ lick
+1138,NOGO W+ nolick
+1139,GO W+ nolick
+1140,GO W- nolick
+1141,NOGO W+ lick
+1142,GO W- lick
+1143,GO W- lick
+1144,GO W- nolick
+1145,GO W- lick
+1146,GO W+ lick
+1147,NOGO W- nolick
+1148,NOGO W+ nolick
+1149,GO W+ lick
+1150,GO W+ nolick
+1151,GO W+ nolick
+1152,NOGO W+ nolick
+1153,NOGO W+ nolick
+1154,NOGO W- lick
+1155,NOGO W- nolick
+1156,GO W+ lick
+1157,GO W+ nolick
+1158,NOGO W+ lick
+1159,GO W+ nolick
+1160,GO W+ nolick
+1161,NOGO W+ nolick
+1162,no tone W+ nolick
+1163,GO W- lick
+1164,NOGO W+ lick
+1165,no tone W+ lick
+1166,GO W- nolick
+1167,GO W- lick
+1168,NOGO W+ nolick
+1169,no tone W+ lick
+1170,NOGO W+ nolick
+1171,no tone W+ nolick
+1172,GO W- nolick
+1173,no tone W+ lick
+1174,GO W+ nolick
+1175,GO W+ lick
+1176,no tone W+ nolick
+1177,NOGO W+ lick
+1178,GO W- lick
+1179,NOGO W+ nolick
+1180,no tone W+ nolick
+1181,GO W- nolick
+1182,no tone W+ lick
+1183,GO W- nolick
+1184,no tone W+ lick
+1185,NOGO W+ lick
+1186,NOGO W- lick
+1187,GO W- nolick
+1188,no tone W+ nolick
+1189,NOGO W+ lick
+1190,GO W- lick
+1191,GO W- lick
+1192,no tone W+ lick
+1193,GO W- lick
+1194,NOGO W- nolick
+1195,NOGO W- nolick
+1196,GO W+ lick
+1197,no tone W+ nolick
+1198,NOGO W- lick
+1199,NOGO W+ lick
+1200,NOGO W- nolick
+1201,no tone W+ nolick
+1202,NOGO W- nolick
+1203,GO W+ lick
+1204,GO W- nolick
+1205,NOGO W- nolick
+1206,GO W- lick
+1207,NOGO W- lick
+1208,no tone W+ nolick
+1209,no tone W+ nolick
+1210,GO W- nolick
+1211,GO W- nolick
+1212,NOGO W+ nolick
+1213,NOGO W- lick
+1214,NOGO W+ nolick
+1215,GO W- nolick
+1216,GO W+ nolick
+1217,NOGO W- lick
+1218,NOGO W- nolick
+1219,NOGO W- lick
+1220,no tone W+ nolick
+1221,NOGO W+ lick
+1222,NOGO W- lick
+1223,GO W+ lick
+1224,NOGO W+ nolick
+1225,GO W+ nolick
+1226,NOGO W+ lick
+1227,GO W+ nolick
+1228,GO W- nolick
+1229,no tone W+ lick
+1230,no tone W+ lick
+1231,NOGO W+ lick
+1232,GO W+ lick
+1233,NOGO W- nolick
+1234,no tone W+ lick
+1235,NOGO W- nolick
+1236,GO W+ lick
+1237,NOGO W+ nolick
+1238,NOGO W+ nolick
+1239,NOGO W- nolick
+1240,no tone W+ nolick
+1241,GO W- nolick
+1242,NOGO W- lick
+1243,NOGO W- lick
+1244,NOGO W- nolick
+1245,NOGO W+ nolick
+1246,no tone W+ nolick
+1247,no tone W+ nolick
+1248,NOGO W+ lick
+1249,GO W+ nolick
+1250,NOGO W- nolick
+1251,no tone W+ nolick
+1252,NOGO W+ lick
+1253,NOGO W+ nolick
+1254,GO W- lick
+1255,GO W- nolick
+1256,GO W- nolick
+1257,GO W- lick
+1258,NOGO W- nolick
+1259,NOGO W+ lick
+1260,NOGO W- lick
+1261,GO W- lick
+1262,NOGO W+ lick
+1263,no tone W+ nolick
+1264,GO W- nolick
+1265,no tone W+ lick
+1266,no tone W+ lick
+1267,NOGO W+ nolick
+1268,GO W+ lick
+1269,no tone W+ nolick
+1270,GO W+ nolick
+1271,NOGO W+ lick
+1272,NOGO W+ nolick
+1273,GO W+ lick
+1274,NOGO W+ nolick
+1275,GO W+ lick
+1276,NOGO W+ lick
+1277,GO W+ lick
+1278,NOGO W+ nolick
+1279,NOGO W+ lick
+1280,NOGO W+ nolick
+1281,NOGO W- lick
+1282,GO W+ lick
+1283,no tone W+ nolick
+1284,no tone W+ lick
+1285,GO W- nolick
+1286,NOGO W- lick
+1287,GO W+ lick
+1288,GO W+ nolick
+1289,GO W- lick
+1290,GO W- lick
+1291,GO W- lick
+1292,no tone W+ lick
+1293,GO W+ nolick
+1294,GO W+ nolick
+1295,GO W+ nolick
+1296,NOGO W- nolick
+1297,NOGO W+ lick
+1298,NOGO W+ lick
+1299,GO W+ nolick
+1300,no tone W+ lick
+1301,GO W- lick
+1302,NOGO W- lick
+1303,GO W- nolick
+1304,NOGO W+ nolick
+1305,GO W+ nolick
+1306,NOGO W+ lick
+1307,GO W+ nolick
+1308,no tone W+ nolick
+1309,NOGO W- lick
+1310,no tone W+ nolick
+1311,NOGO W- lick
+1312,no tone W+ nolick
+1313,no tone W+ lick
+1314,GO W+ nolick
+1315,NOGO W+ nolick
+1316,NOGO W- nolick
+1317,GO W+ nolick
+1318,NOGO W+ lick
+1319,NOGO W+ nolick
+1320,GO W+ nolick
+1321,GO W- lick
+1322,GO W- lick
+1323,NOGO W- nolick
+1324,NOGO W- lick
+1325,NOGO W+ lick
+1326,GO W- lick
+1327,GO W+ nolick
+1328,NOGO W+ nolick
+1329,NOGO W- nolick
+1330,NOGO W+ nolick
+1331,no tone W+ lick
+1332,GO W+ nolick
+1333,GO W- lick
+1334,GO W- nolick
+1335,GO W- nolick
+1336,no tone W+ nolick
+1337,GO W- nolick
+1338,NOGO W- nolick
+1339,NOGO W- nolick
+1340,GO W- nolick
+1341,NOGO W+ lick
+1342,GO W+ nolick
+1343,NOGO W- lick
+1344,NOGO W+ lick
+1345,NOGO W- lick
+1346,GO W+ lick
+1347,GO W+ nolick
+1348,GO W+ nolick
+1349,GO W- lick
+1350,GO W+ lick
+1351,GO W+ nolick
+1352,GO W- lick
+1353,NOGO W- nolick
+1354,no tone W+ nolick
+1355,NOGO W- lick
+1356,NOGO W+ nolick
+1357,GO W+ lick
+1358,NOGO W- nolick
+1359,GO W+ nolick
+1360,NOGO W- lick
+1361,NOGO W- nolick
+1362,GO W- lick
+1363,GO W+ nolick
+1364,NOGO W- nolick
+1365,NOGO W- lick
+1366,NOGO W+ lick
+1367,no tone W+ nolick
+1368,NOGO W+ lick
+1369,GO W- lick
+1370,NOGO W- nolick
+1371,GO W+ lick
+1372,NOGO W- lick
+1373,GO W- lick
+1374,no tone W+ nolick
+1375,NOGO W- nolick
+1376,NOGO W+ lick
+1377,no tone W+ lick
+1378,GO W+ nolick
+1379,NOGO W+ nolick
+1380,GO W- nolick
+1381,GO W+ nolick
+1382,no tone W+ nolick
+1383,NOGO W- nolick
+1384,GO W+ lick
+1385,no tone W+ lick
+1386,NOGO W+ lick
+1387,NOGO W+ nolick
+1388,NOGO W+ lick
+1389,GO W- lick
+1390,NOGO W+ lick
+1391,NOGO W- lick
+1392,no tone W+ lick
+1393,NOGO W- lick
+1394,NOGO W- lick
+1395,NOGO W- lick
+1396,NOGO W- nolick
+1397,NOGO W- nolick
+1398,GO W- nolick
+1399,GO W- lick
+1400,NOGO W- lick
+1401,GO W+ nolick
+1402,NOGO W- lick
+1403,NOGO W- nolick
+1404,GO W- nolick
+1405,NOGO W+ lick
+1406,GO W- lick
+1407,GO W- lick
+1408,no tone W+ lick
+1409,GO W+ nolick
+1410,NOGO W+ lick
+1411,GO W+ nolick
+1412,GO W- nolick
+1413,GO W- lick
+1414,NOGO W- nolick
+1415,GO W+ nolick
+1416,GO W+ lick
+1417,NOGO W+ nolick
+1418,NOGO W- nolick
+1419,NOGO W+ nolick
+1420,NOGO W+ lick
+1421,NOGO W+ lick
+1422,no tone W+ lick
+1423,GO W- lick
+1424,GO W- nolick
+1425,GO W- nolick
+1426,no tone W+ nolick
+1427,GO W- nolick
+1428,GO W+ nolick
+1429,GO W+ nolick
+1430,GO W+ lick
+1431,NOGO W+ nolick
+1432,GO W+ lick
+1433,NOGO W+ lick
+1434,NOGO W- lick
+1435,NOGO W- nolick
+1436,NOGO W+ nolick
+1437,NOGO W+ nolick
+1438,GO W- lick
+1439,no tone W+ nolick
+1440,no tone W+ lick
+1441,GO W- nolick
+1442,NOGO W+ nolick
+1443,NOGO W+ nolick
+1444,GO W- nolick
+1445,NOGO W+ lick
+1446,no tone W+ lick
+1447,GO W+ nolick
+1448,GO W+ nolick
+1449,GO W+ nolick
+1450,no tone W+ nolick
+1451,GO W- lick
+1452,no tone W+ lick
+1453,NOGO W- nolick
+1454,GO W- lick
+1455,NOGO W+ lick
+1456,no tone W+ nolick
+1457,GO W- nolick
+1458,NOGO W- nolick
+1459,NOGO W+ lick
+1460,no tone W+ nolick
+1461,NOGO W+ nolick
+1462,GO W+ lick
+1463,NOGO W+ nolick
+1464,GO W+ lick
+1465,GO W+ nolick
+1466,GO W- nolick
+1467,NOGO W- nolick
+1468,no tone W+ nolick
+1469,NOGO W+ nolick
+1470,GO W+ lick
+1471,NOGO W+ lick
+1472,GO W+ lick
+1473,no tone W+ nolick
+1474,no tone W+ nolick
+1475,GO W+ nolick
+1476,GO W+ lick
+1477,NOGO W- nolick
+1478,no tone W+ lick
+1479,NOGO W+ lick
+1480,GO W- nolick
+1481,GO W+ lick
+1482,NOGO W- nolick
+1483,no tone W+ lick
+1484,NOGO W+ nolick
+1485,GO W- lick
+1486,GO W+ lick
+1487,GO W+ lick
+1488,GO W- nolick
+1489,GO W+ nolick
+1490,NOGO W- lick
+1491,no tone W+ nolick
+1492,GO W- nolick
+1493,GO W+ lick
+1494,GO W- nolick
+1495,NOGO W- nolick
+1496,NOGO W+ lick
+1497,NOGO W+ nolick
+1498,no tone W+ lick
+1499,GO W+ lick
+1500,GO W- lick
+1501,NOGO W- lick
+1502,NOGO W- nolick
+1503,NOGO W- lick
+1504,no tone W+ lick
+1505,no tone W+ lick
+1506,NOGO W- nolick
+1507,GO W- lick
+1508,GO W+ nolick
+1509,GO W+ lick
+1510,GO W- nolick
+1511,NOGO W- lick
+1512,NOGO W+ nolick
+1513,GO W+ nolick
+1514,no tone W+ nolick
+1515,NOGO W+ lick
+1516,GO W+ lick
+1517,no tone W+ nolick
+1518,GO W- nolick
+1519,GO W- nolick
+1520,no tone W+ lick
+1521,GO W+ lick
+1522,no tone W+ lick
+1523,NOGO W+ lick
+1524,NOGO W+ lick
+1525,GO W- nolick
+1526,GO W- nolick
+1527,NOGO W- lick
+1528,GO W- lick
+1529,NOGO W+ nolick
+1530,NOGO W- nolick
+1531,NOGO W- nolick
+1532,no tone W+ nolick
+1533,NOGO W+ nolick
+1534,GO W+ nolick
+1535,no tone W+ lick
+1536,GO W+ nolick
+1537,NOGO W- lick
+1538,NOGO W+ nolick
+1539,NOGO W- lick
+1540,GO W+ nolick
+1541,GO W+ lick
+1542,NOGO W- nolick
+1543,no tone W+ lick
+1544,NOGO W- lick
+1545,no tone W+ lick
+1546,NOGO W+ nolick
+1547,no tone W+ lick
+1548,no tone W+ nolick
+1549,no tone W+ nolick
+1550,GO W+ lick
+1551,GO W- nolick
+1552,no tone W+ nolick
+1553,NOGO W+ lick
+1554,NOGO W- nolick
+1555,GO W+ nolick
+1556,NOGO W+ nolick
+1557,NOGO W- lick
+1558,GO W- nolick
+1559,NOGO W- lick
+1560,NOGO W+ lick
+1561,NOGO W+ lick
+1562,NOGO W- lick
+1563,NOGO W+ lick
+1564,GO W- nolick
+1565,GO W+ nolick
+1566,NOGO W+ lick
+1567,GO W+ lick
+1568,no tone W+ lick
+1569,NOGO W+ lick
+1570,no tone W+ lick
+1571,NOGO W+ lick
+1572,NOGO W+ nolick
+1573,GO W+ nolick
+1574,GO W+ lick
+1575,GO W+ nolick
+1576,GO W- lick
+1577,GO W- lick
+1578,NOGO W+ lick
+1579,NOGO W+ lick
+1580,GO W+ nolick
+1581,no tone W+ lick
+1582,NOGO W+ lick
+1583,GO W- nolick
+1584,GO W+ nolick
+1585,no tone W+ lick
+1586,GO W+ nolick
+1587,no tone W+ nolick
+1588,GO W- lick
+1589,GO W+ nolick
+1590,NOGO W+ lick
+1591,NOGO W+ lick
+1592,GO W+ lick
+1593,no tone W+ nolick
+1594,GO W- nolick
+1595,NOGO W- lick
+1596,GO W+ nolick
+1597,GO W+ lick
+1598,GO W- nolick
+1599,GO W+ nolick
+1600,GO W+ lick
+1601,no tone W+ lick
+1602,GO W+ nolick
+1603,NOGO W- lick
+1604,NOGO W+ lick
+1605,GO W+ nolick
+1606,GO W+ lick
+1607,GO W+ nolick
+1608,NOGO W+ lick
+1609,no tone W+ nolick
+1610,NOGO W- nolick
+1611,GO W+ lick
+1612,GO W- lick
+1613,GO W+ lick
+1614,NOGO W+ nolick
+1615,no tone W+ nolick
+1616,GO W- nolick
+1617,GO W+ lick
+1618,no tone W+ nolick
+1619,no tone W+ lick
+1620,GO W- lick
+1621,no tone W+ lick
+1622,NOGO W- lick
+1623,NOGO W- lick
+1624,NOGO W- lick
+1625,NOGO W+ nolick
+1626,GO W+ lick
+1627,no tone W+ lick
+1628,NOGO W- lick
+1629,GO W- nolick
+1630,no tone W+ nolick
+1631,no tone W+ nolick
+1632,GO W+ nolick
+1633,no tone W+ nolick
+1634,NOGO W+ lick
+1635,NOGO W+ lick
+1636,NOGO W- nolick
+1637,NOGO W+ nolick
+1638,no tone W+ nolick
+1639,NOGO W+ nolick
+1640,GO W- nolick
+1641,GO W- nolick
+1642,NOGO W- nolick
+1643,NOGO W- nolick
+1644,NOGO W- nolick
+1645,NOGO W+ lick
+1646,no tone W+ lick
+1647,no tone W+ lick
+1648,no tone W+ lick
+1649,GO W+ lick
+1650,GO W- nolick
+1651,GO W- lick
+1652,GO W- nolick
+1653,NOGO W- lick
+1654,GO W- lick
+1655,NOGO W- lick
+1656,NOGO W+ nolick
+1657,NOGO W+ nolick
+1658,NOGO W- nolick
+1659,no tone W+ nolick
+1660,NOGO W- nolick
+1661,no tone W+ nolick
+1662,NOGO W+ nolick
+1663,GO W+ lick
+1664,GO W+ lick
+1665,GO W+ lick
+1666,GO W+ nolick
+1667,NOGO W+ nolick
+1668,no tone W+ lick
+1669,NOGO W+ nolick
+1670,GO W+ lick
+1671,GO W- nolick
+1672,NOGO W+ lick
+1673,NOGO W+ lick
+1674,GO W- lick
+1675,NOGO W+ nolick
+1676,no tone W+ nolick
+1677,GO W- lick
+1678,NOGO W- lick
+1679,NOGO W+ lick
+1680,GO W- nolick
+1681,GO W+ lick
+1682,GO W- lick
+1683,GO W- nolick
+1684,no tone W+ lick
+1685,NOGO W- lick
+1686,NOGO W- lick
+1687,NOGO W- nolick
+1688,GO W- lick
+1689,NOGO W+ nolick
+1690,NOGO W+ nolick
+1691,no tone W+ nolick
+1692,GO W+ lick
+1693,NOGO W- nolick
+1694,NOGO W+ lick
+1695,GO W- lick
+1696,NOGO W- lick
+1697,no tone W+ lick
+1698,NOGO W+ lick
+1699,no tone W+ nolick
+1700,no tone W+ lick
+1701,GO W- nolick
+1702,no tone W+ lick
+1703,NOGO W- nolick
+1704,NOGO W- nolick
+1705,GO W- nolick
+1706,GO W+ lick
+1707,NOGO W+ nolick
+1708,no tone W+ lick
+1709,NOGO W- nolick
+1710,GO W+ lick
+1711,GO W- lick
+1712,NOGO W+ lick
+1713,NOGO W+ nolick
+1714,GO W- nolick
+1715,NOGO W- lick
+1716,no tone W+ lick
+1717,NOGO W- lick
+1718,NOGO W- nolick
+1719,no tone W+ lick
+1720,NOGO W+ nolick
+1721,no tone W+ lick
+1722,NOGO W- lick
+1723,GO W+ lick
+1724,NOGO W+ lick
+1725,no tone W+ nolick
+1726,NOGO W- lick
+1727,NOGO W+ lick
+1728,GO W+ lick
+1729,no tone W+ lick
+1730,NOGO W- nolick
+1731,GO W- nolick
+1732,GO W- nolick
+1733,GO W- nolick
+1734,GO W- nolick
+1735,GO W+ nolick
+1736,NOGO W+ lick
+1737,NOGO W+ nolick
+1738,NOGO W+ lick
+1739,no tone W+ nolick
+1740,GO W- lick
+1741,NOGO W+ lick
+1742,no tone W+ nolick
+1743,GO W+ nolick
+1744,GO W+ lick
+1745,no tone W+ lick
+1746,NOGO W- lick
+1747,GO W- lick
+1748,NOGO W+ nolick
+1749,no tone W+ lick
+1750,NOGO W+ lick
+1751,NOGO W- nolick
+1752,GO W+ nolick
+1753,GO W- lick
+1754,GO W- lick
+1755,GO W+ lick
+1756,no tone W+ lick
+1757,NOGO W- lick
+1758,GO W- lick
+1759,NOGO W+ nolick
+1760,NOGO W- nolick
+1761,NOGO W+ nolick
+1762,GO W- lick
+1763,NOGO W- nolick
+1764,NOGO W+ lick
+1765,NOGO W+ nolick
+1766,GO W+ lick
+1767,GO W+ nolick
+1768,NOGO W+ nolick
+1769,NOGO W+ nolick
+1770,NOGO W- lick
+1771,NOGO W+ nolick
+1772,NOGO W+ nolick
+1773,GO W+ nolick
+1774,GO W- nolick
+1775,NOGO W- lick
+1776,GO W- lick
+1777,GO W- lick
+1778,no tone W+ nolick
+1779,NOGO W- nolick
+1780,NOGO W- lick
+1781,GO W+ nolick
+1782,NOGO W- nolick
+1783,NOGO W- lick
+1784,GO W+ lick
+1785,no tone W+ nolick
+1786,NOGO W- nolick
+1787,GO W+ lick
+1788,NOGO W+ lick
+1789,GO W- lick
+1790,NOGO W- lick
+1791,NOGO W+ nolick
+1792,GO W- lick
+1793,NOGO W+ lick
+1794,GO W- lick
+1795,NOGO W- lick
+1796,NOGO W+ lick
+1797,GO W+ lick
+1798,GO W+ lick
+1799,no tone W+ lick
+1800,NOGO W- lick
+1801,no tone W+ nolick
+1802,NOGO W- lick
+1803,GO W- lick
+1804,GO W- lick
+1805,GO W- lick
+1806,GO W- lick
+1807,NOGO W- nolick
+1808,NOGO W+ lick
+1809,NOGO W- nolick
+1810,NOGO W- nolick
+1811,NOGO W- lick
+1812,GO W- nolick
+1813,NOGO W+ lick
+1814,no tone W+ lick
+1815,NOGO W- lick
+1816,NOGO W- nolick
+1817,no tone W+ nolick
+1818,no tone W+ lick
+1819,NOGO W+ lick
+1820,no tone W+ lick
+1821,GO W+ nolick
+1822,no tone W+ lick
+1823,NOGO W+ lick
+1824,NOGO W+ lick
+1825,NOGO W- lick
+1826,NOGO W+ lick
+1827,GO W- lick
+1828,NOGO W- nolick
+1829,NOGO W+ lick
+1830,NOGO W+ nolick
+1831,NOGO W- lick
+1832,GO W- nolick
+1833,NOGO W+ nolick
+1834,NOGO W+ lick
+1835,GO W- lick
+1836,NOGO W+ lick
+1837,NOGO W+ nolick
+1838,NOGO W+ lick
+1839,no tone W+ lick
+1840,no tone W+ nolick
+1841,no tone W+ lick
+1842,GO W+ nolick
+1843,NOGO W+ lick
+1844,no tone W+ nolick
+1845,NOGO W- nolick
+1846,NOGO W+ lick
+1847,GO W- nolick
+1848,NOGO W- nolick
+1849,no tone W+ lick
+1850,NOGO W+ lick
+1851,GO W+ nolick
+1852,GO W- nolick
+1853,NOGO W- nolick
+1854,GO W+ nolick
+1855,NOGO W- nolick
+1856,NOGO W- nolick
+1857,NOGO W- lick
+1858,GO W+ lick
+1859,no tone W+ nolick
+1860,NOGO W- lick
+1861,no tone W+ lick
+1862,no tone W+ nolick
+1863,GO W+ lick
+1864,no tone W+ lick
+1865,GO W- lick
+1866,no tone W+ lick
+1867,NOGO W+ lick
+1868,NOGO W- lick
+1869,NOGO W- nolick
+1870,GO W- lick
+1871,no tone W+ nolick
+1872,NOGO W- nolick
+1873,NOGO W+ lick
+1874,GO W- nolick
+1875,NOGO W+ lick
+1876,no tone W+ lick
+1877,NOGO W+ nolick
+1878,NOGO W+ nolick
+1879,GO W+ nolick
+1880,no tone W+ nolick
+1881,GO W- nolick
+1882,NOGO W- lick
+1883,no tone W+ nolick
+1884,NOGO W+ nolick
+1885,GO W+ lick
+1886,no tone W+ lick
+1887,no tone W+ lick
+1888,no tone W+ nolick
+1889,NOGO W+ lick
+1890,GO W+ lick
+1891,GO W- nolick
+1892,NOGO W- lick
+1893,GO W- nolick
+1894,GO W- nolick
+1895,GO W+ nolick
+1896,GO W+ nolick
+1897,NOGO W+ nolick
+1898,NOGO W+ lick
+1899,NOGO W- lick
+1900,NOGO W- nolick
+1901,GO W- nolick
+1902,NOGO W- nolick
+1903,no tone W+ nolick
+1904,no tone W+ nolick
+1905,no tone W+ lick
+1906,no tone W+ lick
+1907,GO W+ lick
+1908,GO W+ lick
+1909,NOGO W+ nolick
+1910,GO W+ nolick
+1911,GO W+ nolick
+1912,NOGO W- lick
+1913,no tone W+ lick
+1914,no tone W+ nolick
+1915,no tone W+ lick
+1916,NOGO W- nolick
+1917,GO W- lick
+1918,GO W- lick
+1919,GO W+ nolick
+1920,NOGO W- lick
+1921,no tone W+ lick
+1922,GO W+ nolick
+1923,NOGO W+ nolick
+1924,NOGO W- lick
+1925,no tone W+ lick
+1926,NOGO W+ lick
+1927,GO W+ lick
+1928,NOGO W+ lick
+1929,NOGO W- nolick
+1930,no tone W+ nolick
+1931,no tone W+ nolick
+1932,GO W+ nolick
+1933,GO W+ nolick
+1934,NOGO W+ nolick
+1935,NOGO W+ nolick
+1936,NOGO W+ lick
+1937,GO W+ nolick
+1938,no tone W+ nolick
+1939,NOGO W- lick
+1940,no tone W+ nolick
+1941,NOGO W+ nolick
+1942,NOGO W- lick
+1943,GO W- nolick
+1944,NOGO W+ lick
+1945,NOGO W- lick
+1946,no tone W+ nolick
+1947,no tone W+ lick
+1948,NOGO W+ lick
+1949,GO W+ lick
+1950,NOGO W+ nolick
+1951,GO W+ nolick
+1952,GO W+ nolick
+1953,no tone W+ lick
+1954,no tone W+ nolick
+1955,NOGO W- lick
+1956,NOGO W- nolick
+1957,GO W- nolick
+1958,GO W- nolick
+1959,NOGO W- lick
+1960,GO W- lick
+1961,GO W- lick
+1962,GO W- lick
+1963,NOGO W+ lick
+1964,GO W- nolick
+1965,NOGO W- nolick
+1966,NOGO W+ nolick
+1967,no tone W+ nolick
+1968,NOGO W+ lick
+1969,no tone W+ nolick
+1970,GO W- nolick
+1971,NOGO W+ nolick
+1972,no tone W+ nolick
+1973,no tone W+ lick
+1974,NOGO W- lick
+1975,NOGO W- nolick
+1976,no tone W+ nolick
+1977,GO W- nolick
+1978,GO W- nolick
+1979,NOGO W+ nolick
+1980,NOGO W+ nolick
+1981,GO W- nolick
+1982,GO W- lick
+1983,NOGO W+ nolick
+1984,NOGO W- nolick
+1985,NOGO W- lick
+1986,NOGO W- nolick
+1987,GO W+ lick
+1988,no tone W+ lick
+1989,NOGO W- nolick
+1990,NOGO W+ nolick
+1991,GO W+ nolick
+1992,GO W+ nolick
+1993,NOGO W- lick
+1994,GO W- nolick
+1995,GO W- lick
+1996,NOGO W+ nolick
+1997,GO W- lick
+1998,NOGO W- nolick
+1999,GO W+ nolick
+2000,no tone W+ nolick
+2001,GO W+ lick
+2002,NOGO W- lick
+2003,no tone W+ lick
+2004,NOGO W- nolick
+2005,NOGO W+ nolick
+2006,no tone W+ lick
+2007,NOGO W+ nolick
+2008,NOGO W- nolick
+2009,GO W- lick
+2010,NOGO W+ lick
+2011,no tone W+ lick
+2012,GO W+ nolick
+2013,GO W- lick
+2014,NOGO W- lick
+2015,NOGO W+ nolick
+2016,NOGO W+ nolick
+2017,GO W- nolick
+2018,NOGO W- nolick
+2019,NOGO W+ nolick
+2020,GO W+ nolick
+2021,no tone W+ nolick
+2022,no tone W+ nolick
+2023,GO W- nolick
+2024,no tone W+ lick
+2025,NOGO W- nolick
+2026,NOGO W- nolick
+2027,GO W+ nolick
+2028,NOGO W+ lick
+2029,NOGO W- lick
+2030,NOGO W+ nolick
+2031,no tone W+ nolick
+2032,NOGO W- lick
+2033,NOGO W- lick
+2034,NOGO W- lick
+2035,NOGO W+ lick
+2036,GO W+ nolick
+2037,no tone W+ lick
+2038,no tone W+ lick
+2039,NOGO W+ nolick
+2040,GO W+ nolick
+2041,NOGO W- nolick
+2042,NOGO W- lick
+2043,no tone W+ nolick
+2044,GO W- nolick
+2045,NOGO W+ lick
+2046,NOGO W- nolick
+2047,NOGO W- lick
+2048,GO W+ lick
+2049,GO W- lick
+2050,NOGO W- nolick
+2051,NOGO W- lick
+2052,GO W- lick
+2053,NOGO W- nolick
+2054,GO W- nolick
+2055,GO W+ nolick
+2056,no tone W+ lick
+2057,NOGO W- lick
+2058,NOGO W- lick
+2059,GO W+ lick
+2060,NOGO W- nolick
+2061,NOGO W- lick
+2062,NOGO W+ nolick
+2063,GO W- lick
+2064,GO W- lick
+2065,NOGO W+ nolick
+2066,NOGO W+ nolick
+2067,NOGO W+ nolick
+2068,NOGO W+ lick
+2069,NOGO W- nolick
+2070,NOGO W- lick
+2071,NOGO W- lick
+2072,GO W+ nolick
+2073,GO W+ nolick
+2074,GO W- nolick
+2075,GO W- lick
+2076,NOGO W+ lick
+2077,GO W- nolick
+2078,NOGO W+ nolick
+2079,GO W- lick
+2080,NOGO W+ lick
+2081,GO W- nolick
+2082,NOGO W- nolick
+2083,NOGO W+ nolick
+2084,GO W- lick
+2085,no tone W+ lick
+2086,GO W- lick
+2087,NOGO W- lick
+2088,GO W- nolick
+2089,GO W+ lick
+2090,GO W- lick
+2091,NOGO W- lick
+2092,GO W+ nolick
+2093,GO W- lick
+2094,NOGO W+ nolick
+2095,NOGO W+ nolick
+2096,no tone W+ nolick
+2097,no tone W+ lick
+2098,NOGO W- lick
+2099,no tone W+ lick
+2100,NOGO W+ nolick
+2101,NOGO W- lick
+2102,no tone W+ nolick
+2103,GO W- nolick
+2104,no tone W+ nolick
+2105,no tone W+ lick
+2106,GO W- nolick
+2107,GO W+ nolick
+2108,GO W+ lick
+2109,GO W- nolick
+2110,no tone W+ lick
+2111,no tone W+ lick
+2112,NOGO W+ nolick
+2113,GO W- lick
+2114,NOGO W- lick
+2115,NOGO W+ nolick
+2116,NOGO W- lick
+2117,NOGO W- nolick
+2118,no tone W+ lick
+2119,no tone W+ lick
+2120,GO W+ lick
+2121,no tone W+ nolick
+2122,NOGO W- lick
+2123,NOGO W+ nolick
+2124,no tone W+ nolick
+2125,no tone W+ lick
+2126,GO W- nolick
+2127,NOGO W- nolick
+2128,NOGO W- lick
+2129,GO W+ nolick
+2130,NOGO W- nolick
+2131,GO W- nolick
+2132,GO W+ nolick
+2133,GO W+ lick
+2134,NOGO W- nolick
+2135,GO W+ lick
+2136,NOGO W- nolick
+2137,NOGO W- lick
+2138,GO W- nolick
+2139,NOGO W- nolick
+2140,GO W+ lick
+2141,GO W+ nolick
+2142,GO W+ lick
+2143,GO W+ lick
+2144,NOGO W- lick
+2145,GO W- nolick
+2146,GO W- lick
+2147,NOGO W+ lick
+2148,GO W- nolick
+2149,GO W+ nolick
+2150,GO W+ lick
+2151,GO W+ lick
+2152,GO W- lick
+2153,no tone W+ nolick
+2154,GO W- nolick
+2155,GO W+ lick
+2156,GO W+ nolick
+2157,GO W+ lick
+2158,NOGO W- nolick
+2159,NOGO W+ lick
+2160,NOGO W- nolick
+2161,NOGO W- lick
+2162,NOGO W- lick
+2163,GO W- lick
+2164,GO W+ nolick
+2165,GO W- nolick
+2166,GO W+ nolick
+2167,GO W- nolick
+2168,NOGO W- nolick
+2169,GO W+ lick
+2170,no tone W+ nolick
+2171,NOGO W+ lick
+2172,NOGO W- nolick
+2173,GO W+ lick
+2174,GO W- lick
+2175,GO W- lick
+2176,GO W+ nolick
+2177,GO W- lick
+2178,GO W- nolick
+2179,GO W+ lick
+2180,GO W- lick
+2181,GO W+ lick
+2182,no tone W+ nolick
+2183,GO W+ nolick
+2184,GO W+ nolick
+2185,NOGO W- nolick
+2186,GO W+ nolick
+2187,NOGO W- nolick
+2188,NOGO W- lick
+2189,GO W- lick
+2190,GO W- lick
+2191,GO W- lick
+2192,NOGO W- nolick
+2193,NOGO W+ nolick
+2194,GO W+ lick
+2195,no tone W+ nolick
+2196,NOGO W+ nolick
+2197,NOGO W+ nolick
+2198,GO W- nolick
+2199,GO W- lick
+2200,NOGO W+ nolick
+2201,GO W- nolick
+2202,GO W- lick
+2203,NOGO W+ lick
+2204,no tone W+ nolick
+2205,GO W+ lick
+2206,GO W+ lick
+2207,GO W- nolick
+2208,NOGO W+ nolick
+2209,NOGO W+ nolick
+2210,NOGO W+ lick
+2211,NOGO W+ nolick
+2212,GO W- lick
+2213,NOGO W+ nolick
+2214,NOGO W- nolick
+2215,GO W- nolick
+2216,NOGO W- nolick
+2217,GO W+ lick
+2218,NOGO W+ nolick
+2219,GO W+ lick
+2220,NOGO W+ lick
+2221,GO W- nolick
+2222,NOGO W- lick
+2223,NOGO W- nolick
+2224,NOGO W+ nolick
+2225,GO W+ nolick
+2226,NOGO W+ nolick
+2227,GO W- lick
+2228,NOGO W- nolick
+2229,NOGO W- nolick
+2230,NOGO W+ lick
+2231,GO W- lick
+2232,no tone W+ lick
+2233,NOGO W- nolick
+2234,NOGO W+ nolick
+2235,GO W- lick
+2236,GO W- nolick
+2237,no tone W+ lick
+2238,GO W+ lick
+2239,no tone W+ lick
+2240,no tone W+ lick
+2241,NOGO W+ lick
+2242,NOGO W- lick
+2243,NOGO W- lick
+2244,NOGO W+ lick
+2245,GO W- lick
+2246,GO W- nolick
+2247,NOGO W- lick
+2248,GO W+ lick
+2249,GO W+ lick
+2250,NOGO W- nolick
+2251,GO W- nolick
+2252,NOGO W+ lick
+2253,GO W- nolick
+2254,NOGO W+ nolick
+2255,GO W+ lick
+2256,GO W- nolick
+2257,GO W+ nolick
+2258,NOGO W+ lick
+2259,no tone W+ lick
+2260,NOGO W+ lick
+2261,NOGO W- nolick
+2262,NOGO W+ nolick
+2263,no tone W+ nolick
+2264,GO W+ lick
+2265,no tone W+ lick
+2266,NOGO W- lick
+2267,GO W+ lick
+2268,no tone W+ lick
+2269,no tone W+ lick
+2270,GO W+ nolick
+2271,NOGO W+ nolick
+2272,GO W- lick
+2273,NOGO W+ nolick
+2274,GO W+ lick
+2275,NOGO W+ nolick
+2276,NOGO W- lick
+2277,NOGO W- nolick
+2278,GO W+ nolick
+2279,NOGO W+ nolick
+2280,GO W+ lick
+2281,no tone W+ lick
+2282,NOGO W+ lick
+2283,GO W+ nolick
+2284,GO W- lick
+2285,GO W+ nolick
+2286,GO W+ lick
+2287,no tone W+ nolick
+2288,GO W+ lick
+2289,no tone W+ nolick
+2290,NOGO W- nolick
+2291,NOGO W- nolick
+2292,GO W+ lick
