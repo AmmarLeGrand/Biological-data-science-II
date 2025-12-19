@@ -40,3 +40,8 @@ python -m ipykernel install --user --name biological-data-science-ii
 - **Linear/XGB**: run `notebooks/mini_project_ml_leo_ammar.ipynb` cells for preprocessing, feature selection, and model training. 
 
 
+### Attribution
+- Authors: Khobieh Ammar, Manuele Leo.
+- AI assistance: content and code were iteratively drafted with ChatGPT and GitHub Copilot; all outputs were reviewed and integrated manually.
+
+
